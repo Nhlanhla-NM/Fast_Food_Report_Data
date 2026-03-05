@@ -3,6 +3,7 @@ An end-to-end data project involving Excel-based data cleaning, sorting, and org
 
 ## Tools Used
 - Microsoft Excel
+- Microsoft Word
 - Microsoft Power BI
 - Tables
 - Filters
